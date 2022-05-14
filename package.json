@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "pkg1": "file:./pkg1"
+  },
+  "packageManager": "yarn@3.2.0"
+}
